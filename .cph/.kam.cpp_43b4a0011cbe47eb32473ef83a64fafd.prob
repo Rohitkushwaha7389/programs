@@ -1,0 +1,1 @@
+{"name":"Local: kam","url":"c:\\Users\\ROHIT\\New folder (2)\\kam.cpp","tests":[{"id":1688194003522,"input":"5 3\n120 100 100 90 60\n40 40 80","output":"5\n5\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ROHIT\\New folder (2)\\kam.cpp","group":"local","local":true}

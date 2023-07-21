@@ -1,0 +1,1 @@
+num=np.array(num)

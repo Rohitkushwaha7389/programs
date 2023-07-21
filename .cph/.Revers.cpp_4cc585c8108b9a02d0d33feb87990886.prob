@@ -1,0 +1,1 @@
+{"name":"Local: Revers","url":"c:\\Users\\ROHIT\\New folder (2)\\Revers.cpp","tests":[{"id":1665248979202,"input":"4321","output":"1234"},{"id":1665249052783,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ROHIT\\New folder (2)\\Revers.cpp","group":"local","local":true}
